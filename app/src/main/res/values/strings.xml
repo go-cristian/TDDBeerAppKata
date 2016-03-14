@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">BeerApp</string>
+  <string name="get_beer">Get Beer</string>
+  <string name="error">Error</string>
+</resources>
